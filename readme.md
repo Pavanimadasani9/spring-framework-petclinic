@@ -232,6 +232,6 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 Finally it should work!!
 
-cicd pipeline project is done
+cicd pipeline project is done.
 
 
